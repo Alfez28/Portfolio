@@ -4,13 +4,16 @@
   color: white;
 }
 
+
+
+
 /* Navbar */
 
 .navbar{
   background: rgb(52, 53, 58); 
 }
 .logo{
-  width: 50px;
+  width: 65px;
 }
 .nav-item>a{
   color: white;
@@ -21,6 +24,8 @@
 .active{
   color: rgb(254, 201, 107) !important;
 }
+
+
 
 
 /* Home */
@@ -58,7 +63,11 @@
 }
 
 
+
+
+
 /* About */
+
 .about{
   background: rgb(52, 53, 58);
 }
@@ -70,6 +79,9 @@
   color: white;
   font-size: large;
 }
+
+
+
 
 
 /* My Skills */
@@ -99,6 +111,9 @@
   height: 50px;
   width: 50px;
 }
+
+
+
 
 /* Projects */
 
@@ -179,6 +194,10 @@
   border-radius: 5px;
   background: rgb(254, 201, 107);
 }
+
+
+
+
 /* contact */
 
 .contact{
@@ -234,6 +253,10 @@
 .form>button:hover{
   background: rgb(254, 201, 107);
 }
+
+
+
+
 
 
 /* footer */
