@@ -54,7 +54,7 @@
 
 .homebtn:hover{
   background: rgb(254, 201, 107);
-  color: white;
+  color: black;
 }
 
 .himg>img{
@@ -78,6 +78,9 @@
 .aboutcontain>p{
   color: white;
   font-size: large;
+}
+.aboutcontain>p>span{
+  color: rgb(254, 201, 107);
 }
 
 
@@ -138,7 +141,7 @@
 
 .project-btn:hover{
   background: rgb(254, 201, 107);
-  color: white;
+  color: black;
 }
 
 /* ----------- */
@@ -218,15 +221,7 @@
   height: 80%;
   gap: 30px;
 }
-.last>input{
-  width: 97%;
-  padding-bottom: 200px;
-  padding-left: 10px;
-  background: rgb(18, 21, 20);
-  border: none;
-  border-radius: 10px;
 
-}
 .top>input{
   color: white;
   background: rgb(18, 21, 20);
@@ -237,6 +232,15 @@
 .down>input{
   padding: 10px;
   color: white;
+  background: rgb(18, 21, 20);
+  border: none;
+  border-radius: 10px;
+}
+.last>input{
+  color: white;
+  width: 97%;
+  padding-bottom: 200px;
+  padding-left: 10px;
   background: rgb(18, 21, 20);
   border: none;
   border-radius: 10px;
@@ -252,6 +256,7 @@
 }
 .form>button:hover{
   background: rgb(254, 201, 107);
+  color: black;
 }
 
 
